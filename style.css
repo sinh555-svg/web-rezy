@@ -1,0 +1,14 @@
+*{
+    background-color: bisque;
+    padding: 0%;
+    box-sizing: border-box;
+    margin: auto;
+}
+
+body {
+    color: cornflowerblue;
+}
+
+h3 {
+    color: blueviolet;
+}
